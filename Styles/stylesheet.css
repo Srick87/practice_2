@@ -1,0 +1,14 @@
+body {
+    background-color: antiquewhite;
+    color: darkgreen;
+}
+
+li {
+    color: gray;
+    background-color: antiquewhite;
+}
+
+footer {
+    color: darkslategray;
+    font-family: monospace;
+}
